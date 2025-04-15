@@ -1,6 +1,6 @@
 # Lab 5: Implementing and Analyzing Deep and Bidirectional Recurrent Neural Networks (RNNs) in PyTorch
 
-## Deadline: April 8th at 2:30pm
+## Deadline: April 15th at 2:30pm
 
 ## Summary
 
